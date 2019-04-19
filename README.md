@@ -1,2 +1,2 @@
 # protobufDemo
-protobug test demo
+Android protobuf test demo
