@@ -45,7 +45,19 @@
                 android:textAllCaps="false"
                 android:text="read protobuf" />
 
+            <Button
+                android:id="@+id/btn_write_list"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:textAllCaps="false"
+                android:text="write list" />
 
+            <Button
+                android:id="@+id/btn_read_list"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:textAllCaps="false"
+                android:text="read list" />
 
         </LinearLayout>
 
